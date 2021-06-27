@@ -1,0 +1,26 @@
+{
+  "Name": "Bens Magic Pasta",
+  "Image": "URLHERE",
+  "Description": "Pasta.. but magic!",
+  "Data": {
+    "Prep": "15",
+    "Cook": "30",
+    "Serves": "3"
+  },
+  "Ingredients": {
+    "Fusili Pasta": "350g",
+    "Carrots": "2",
+    "Cucumber": "1/4",
+    "Spring Onion": "3 or 4",
+    "Salt": "10g",
+    "Pasta Sauce": "1 jar",
+    "Grated Cheddar": "100g"
+  },
+  "Method": [
+    "add pasta to water, boil",
+    "cut and prep veg",
+    "when pasta softened, strain",
+    "add pasta sauce, vegetables and cheese",
+    "mix for two minutes, let sit"
+  ]
+}
